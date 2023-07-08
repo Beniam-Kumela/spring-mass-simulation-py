@@ -15,9 +15,8 @@ This was all done within the vpython module and imported via glowscript to an in
 1. [Features](/README.md#features)
 2. [Dependencies](/README.md#dependencies)
 3. [Building and Running](/README.md#building-and-running)
-4. [Example](/README.md#usage)
-5. [Contributing](/README.md#contributing)
-6. [License](/README.md#license)
+4. [Contributing](/README.md#contributing)
+5. [License](/README.md#license)
 
 ## Features
 
