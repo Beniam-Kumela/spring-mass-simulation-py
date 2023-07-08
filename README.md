@@ -1,6 +1,6 @@
 # Spring-Mass System (Python)
 
-This repository contains a Python implementation of a spring-mass system. It uses the following equations to model the physical system:
+This repository contains a Python implementation of a spring-mass system. It uses the following equations were solved using the forward Euler's method to model the physical system:
 
 <img src = "https://latex.codecogs.com/svg.image?&space;F=ma">
 
